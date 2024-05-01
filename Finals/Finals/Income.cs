@@ -61,7 +61,7 @@ namespace Finals
                 {
                     if (IncDate.Value != null)
                     {
-                        using (myConn = new OleDbConnection("Provider=Microsoft.ACE.OLEDB.12.0; Data Source= D:\\Skwela pa nga\\CPE262\\FProfDB.accdb"))
+                        using (myConn = new OleDbConnection("Provider=Microsoft.JET.OLEDB.4.0; Data Source= C:\\Users\\Predator\\Downloads\\FinalsDB.mdb"))
                         {
                             myConn.Open();
                             string query = "INSERT INTO IncomeTbl (IncName, IncAmt, IncCat, IncDate, IncDesc, IncUser) VALUES (@IN, @IA, @IC, @ID, @IDe, @IU)";
