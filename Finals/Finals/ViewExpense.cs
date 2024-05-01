@@ -22,7 +22,7 @@ namespace Finals
         public ViewExpense()
         {
             InitializeComponent();
-            myConn = new OleDbConnection("Provider=Microsoft.ACE.OLEDB.12.0; Data Source= D:\\Skwela pa nga\\CPE262\\FProfDB.accdb");
+            myConn = new OleDbConnection("Provider=Microsoft.JET.OLEDB.4.0; Data Source= C:\\Users\\Predator\\Downloads\\FinalsDB.mdb");
             DisplayExpenses();
             ExpenseDGV.CellClick += ExpenseDGV_CellClick;
         }
