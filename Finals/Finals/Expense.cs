@@ -42,7 +42,7 @@ namespace Finals
                 {
                     if (ExpDate.Value != null)
                     {
-                        using (myConn = new OleDbConnection("Provider=Microsoft.ACE.OLEDB.12.0; Data Source= D:\\Skwela pa nga\\CPE262\\FProfDB.accdb"))
+                        using (myConn = new OleDbConnection("Provider=Microsoft.JET.OLEDB.4.0; Data Source= C:\\Users\\Predator\\Downloads\\FinalsDB.mdb"))
                         {
                             myConn.Open();
                             string query = "INSERT INTO ExpenseTbl (ExpName, ExpAmt, ExpCat, ExpDate, ExpDesc, ExpUser) VALUES (@EN, @EA, @EC, @ED, @EDe, @EU)";
