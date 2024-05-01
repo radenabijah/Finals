@@ -22,7 +22,7 @@ namespace Finals
         public Users()
         {
             InitializeComponent();
-            myConn = new OleDbConnection("Provider=Microsoft.ACE.OLEDB.12.0; Data Source= D:\\Skwela pa nga\\CPE262\\FProfDB.accdb");
+            myConn = new OleDbConnection("Provider=Microsoft.JET.OLEDB.4.0; Data Source= C:\\Users\\Predator\\Downloads\\FinalsDB.mdb");
         }
 
         private void pictureBox9_Click(object sender, EventArgs e)
