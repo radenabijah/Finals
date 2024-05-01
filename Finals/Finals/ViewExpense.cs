@@ -61,7 +61,7 @@ namespace Finals
 
         private void btnLoad_Click(object sender, EventArgs e)
         {
-            myConn = new OleDbConnection("Provider=Microsoft.ACE.OLEDB.12.0; Data Source= D:\\Skwela pa nga\\CPE262\\FProfDB.accdb");
+            myConn = new OleDbConnection("Provider=Microsoft.JET.OLEDB.4.0; Data Source= C:\\Users\\Predator\\Downloads\\FinalsDB.mdb");
             da = new OleDbDataAdapter("SELECT * FROM ExpenseTbl", myConn);
             ds = new DataSet();
             myConn.Open();
