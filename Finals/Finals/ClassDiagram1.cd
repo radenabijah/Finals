@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Finals.Properties.Resources">
+    <Position X="13" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Finals.Chat">
+    <Position X="0.75" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AABAIhQAACAgARAAAACAQAASAAAIAAAAUGAAAQBAIBA=</HashCode>
+      <FileName>Chat.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Finals.Expense">
+    <Position X="11" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>8QAAIhAAACAgARAAAACAQACCAAAAAAggQCAAAQhACAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Finals.Form1">
+    <Position X="14.75" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>/wCyIhQAESAQARQBIICIRIACwIAAACIAQCAigUBBLHo=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Finals.Income">
+    <Position X="7" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>8QAAIhAAACAgARAAAACAQAICACAAAAAAQCAAAQhACAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Finals.Login">
+    <Position X="3" Y="1.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AQAAACAAACAAABAAAACABAACAAAQAgAAQAAAAABAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Finals.Program">
+    <Position X="3" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Finals.Users">
+    <Position X="13" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAACAAKCAAABAAAACAAAACAIAAggAAQAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Finals.ViewExpense">
+    <Position X="5" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>8QAAIhAAQCIAARAAAACASAACAAQAAAAQQCIAAQBBAQA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Finals.ViewIncome">
+    <Position X="9" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>8SAAIhAAQCIAARAAAACASABCAAQAAAAQQDAAAQBBAQA=</HashCode>
+      <FileName>ViewIncome.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
